@@ -1,7 +1,6 @@
 *{
     margin: 0px;
     padding:0px;
-   
 }
 
 body{
@@ -22,19 +21,15 @@ body{
     margin: auto;
 }
 
-#sociais{
-    width:auto;
-    margin-left: 500px;
-    
+#logo li {
+    display: inline-block;
+}
+#logo li i{
+    margin-top: 10px;
+    margin-left: 15px;
+    padding-left: 10px;
 }
 
-#sociais li{
-    display: inline-block;
-    
-}
-.roxo{
-    color: #AF7AC5;
-}
 #conteudo{
     margin: 10px;
 }
